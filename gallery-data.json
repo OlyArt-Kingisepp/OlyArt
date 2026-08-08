@@ -1,15 +1,902 @@
 [
-  {"id": 13, "title": "Декор из джута и кофейных зёрен", "date": "2026-08-08", "isNew": true, "aspect": 1.25, "src": "photos/decup/p1.jpg"},
-  {"id": 12, "title": "Бутылка с росписью", "date": "2026-08-05", "isNew": true, "aspect": 0.55, "src": "photos/decup/p55.jpg"},
-  {"id": 11, "title": "Подарочная композиция", "date": "2026-08-01", "isNew": true, "aspect": 0.8, "src": "photos/smola/p10.jpg"},
-  {"id": 10, "title": "Сувенирная банка", "date": "2026-07-27", "isNew": false, "aspect": 1.0, "src": "photos/decup/p20.jpg"},
-  {"id": 9, "title": "Декоративная композиция", "date": "2026-07-20", "isNew": false, "aspect": 0.7, "src": "photos/smola/p30.jpg"},
-  {"id": 8, "title": "Работа на заказ", "date": "2026-07-14", "isNew": false, "aspect": 1.1, "src": "photos/decup/p40.jpg"},
-  {"id": 7, "title": "Сувенир ручной работы", "date": "2026-07-05", "isNew": false, "aspect": 0.65, "src": "photos/smola/p45.jpg"},
-  {"id": 6, "title": "Декор для дома", "date": "2026-06-27", "isNew": false, "aspect": 1.3, "src": "photos/decup/p50.jpg"},
-  {"id": 5, "title": "Подарок на заказ", "date": "2026-06-18", "isNew": false, "aspect": 0.85, "src": "photos/smola/p60.jpg"},
-  {"id": 4, "title": "Сувенирное украшение", "date": "2026-06-09", "isNew": false, "aspect": 1.2, "src": "photos/decup/p70.jpg"},
-  {"id": 3, "title": "Декоративная бутылка", "date": "2026-05-30", "isNew": false, "aspect": 0.6, "src": "photos/smola/p80.jpg"},
-  {"id": 2, "title": "Работа на заказ", "date": "2026-05-18", "isNew": false, "aspect": 0.95, "src": "photos/decup/p90.jpg"},
-  {"id": 1, "title": "Сувенир из мастерской", "date": "2026-05-02", "isNew": false, "aspect": 1.15, "src": "photos/smola/p99.jpg"}
+  {
+    "id": 100,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-08-08",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_1_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_1_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 99,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-08-06",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_2_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_2_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-08-04",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_3_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_3_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 97,
+    "title": "Декупаж на заказ",
+    "date": "2026-08-02",
+    "isNew": true,
+    "aspect": 1.061,
+    "src": "photos/decup/thumbs/photo_4_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_4_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 96,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-07-31",
+    "isNew": true,
+    "aspect": 0.562,
+    "src": "photos/decup/thumbs/photo_5_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_5_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-07-29",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_6_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_6_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 94,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-07-27",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_7_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_7_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Смола на заказ",
+    "date": "2026-07-25",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_8_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_8_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 92,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-07-23",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_9_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_9_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Смола — авторская работа",
+    "date": "2026-07-21",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_10_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_10_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-07-19",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_11_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_11_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 89,
+    "title": "Декупаж на заказ",
+    "date": "2026-07-17",
+    "isNew": false,
+    "aspect": 0.562,
+    "src": "photos/decup/thumbs/photo_12_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_12_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 88,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-07-15",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_13_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_13_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 87,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-07-13",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_14_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_14_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-07-11",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_15_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_15_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 85,
+    "title": "Декупаж на заказ",
+    "date": "2026-07-09",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_16_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_16_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-07-07",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_17_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_17_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 83,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-07-05",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_18_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_18_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 82,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-07-03",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_19_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_19_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Декупаж на заказ",
+    "date": "2026-07-01",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_20_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_20_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-06-29",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_21_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_21_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-06-27",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_22_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_22_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-06-25",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_23_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_23_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Декупаж на заказ",
+    "date": "2026-06-23",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_24_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_24_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-06-21",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_25_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_25_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-06-19",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_26_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_26_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-06-17",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_27_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_27_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Декупаж на заказ",
+    "date": "2026-06-15",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_28_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_28_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-06-13",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_29_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_29_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-06-11",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_30_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_30_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-06-09",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_31_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_31_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Декупаж на заказ",
+    "date": "2026-06-07",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_32_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_32_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-06-05",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_33_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_33_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Смола — авторская работа",
+    "date": "2026-06-03",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_34_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_34_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-06-01",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_35_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_35_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Смола на заказ",
+    "date": "2026-05-30",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_36_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_36_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-05-28",
+    "isNew": false,
+    "aspect": 0.868,
+    "src": "photos/smola/thumbs/photo_37_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_37_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Смола — авторская работа",
+    "date": "2026-05-26",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_38_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_38_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-05-24",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_39_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_39_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Декупаж на заказ",
+    "date": "2026-05-22",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_40_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_40_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 60,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-05-20",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_41_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_41_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Смола — авторская работа",
+    "date": "2026-05-18",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_42_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_42_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-05-16",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_43_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_43_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Декупаж на заказ",
+    "date": "2026-05-14",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_44_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_44_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-05-12",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_45_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_45_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-05-10",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/decup/thumbs/photo_46_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_46_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-05-08",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/decup/thumbs/photo_47_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_47_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Декупаж на заказ",
+    "date": "2026-05-06",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_48_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_48_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-05-04",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_49_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_49_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-05-02",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_50_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_50_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-04-30",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_51_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_51_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Декупаж на заказ",
+    "date": "2026-04-28",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/decup/thumbs/photo_52_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_52_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-04-26",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_53_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_53_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Смола — авторская работа",
+    "date": "2026-04-24",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_54_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_54_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-04-22",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_55_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_55_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Смола на заказ",
+    "date": "2026-04-20",
+    "isNew": false,
+    "aspect": 0.562,
+    "src": "photos/smola/thumbs/photo_56_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_56_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-04-18",
+    "isNew": false,
+    "aspect": 0.562,
+    "src": "photos/smola/thumbs/photo_57_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_57_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-04-16",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_58_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_58_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-04-14",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_59_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_59_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Смола на заказ",
+    "date": "2026-04-12",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_60_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_60_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-04-10",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_61_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_61_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-04-08",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_62_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_62_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-04-06",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_63_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_63_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Смола на заказ",
+    "date": "2026-04-04",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_64_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_64_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-04-02",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_65_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_65_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-03-31",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_66_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_66_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-03-29",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_67_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_67_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Декупаж на заказ",
+    "date": "2026-03-27",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_68_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_68_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-03-25",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_69_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_69_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-03-23",
+    "isNew": false,
+    "aspect": 0.723,
+    "src": "photos/decup/thumbs/photo_70_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_70_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-03-21",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_71_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_71_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Декупаж на заказ",
+    "date": "2026-03-19",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_72_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_72_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-03-17",
+    "isNew": false,
+    "aspect": 0.691,
+    "src": "photos/decup/thumbs/photo_73_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_73_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-03-15",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_74_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_74_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Сувенир в технике декупаж",
+    "date": "2026-03-13",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_75_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_75_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Декупаж на заказ",
+    "date": "2026-03-11",
+    "isNew": false,
+    "aspect": 1.333,
+    "src": "photos/decup/thumbs/photo_76_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_76_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Декупаж — работа мастерской",
+    "date": "2026-03-09",
+    "isNew": false,
+    "aspect": 1.333,
+    "src": "photos/decup/thumbs/photo_77_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_77_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Смола — авторская работа",
+    "date": "2026-03-07",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_78_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_78_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-03-05",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_79_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_79_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Смола на заказ",
+    "date": "2026-03-03",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_80_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_80_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-03-01",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_81_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_81_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-02-27",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/decup/thumbs/photo_82_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_82_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-02-25",
+    "isNew": false,
+    "aspect": 0.908,
+    "src": "photos/smola/thumbs/photo_83_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_83_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Смола на заказ",
+    "date": "2026-02-23",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_84_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_84_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-02-21",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_85_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_85_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Смола — авторская работа",
+    "date": "2026-02-19",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_86_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_86_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-02-17",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_87_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_87_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Смола на заказ",
+    "date": "2026-02-15",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_88_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_88_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-02-13",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_89_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_89_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Декоративная работа в технике декупаж",
+    "date": "2026-02-11",
+    "isNew": false,
+    "aspect": 0.606,
+    "src": "photos/decup/thumbs/photo_90_2026-08-08_18-17-33.jpg",
+    "full": "photos/decup/photo_90_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-02-09",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_91_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_91_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Смола на заказ",
+    "date": "2026-02-07",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_92_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_92_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-02-05",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_93_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_93_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Смола — авторская работа",
+    "date": "2026-02-03",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_94_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_94_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-02-01",
+    "isNew": false,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_95_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_95_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Смола на заказ",
+    "date": "2026-01-30",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_96_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_96_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Работа в технике эпоксидной смолы",
+    "date": "2026-01-28",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_97_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_97_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Смола — авторская работа",
+    "date": "2026-01-26",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_98_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_98_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Изделие из эпоксидной смолы",
+    "date": "2026-01-24",
+    "isNew": false,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_99_2026-08-08_18-17-33.jpg",
+    "full": "photos/smola/photo_99_2026-08-08_18-17-33.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Смола на заказ",
+    "date": "2026-01-22",
+    "isNew": false,
+    "aspect": 0.562,
+    "src": "photos/smola/thumbs/photo_2025-08-28_21-.jpg",
+    "full": "photos/smola/photo_2025-08-28_21-.jpg"
+  }
 ]

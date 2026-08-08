@@ -137,7 +137,7 @@
       <div onClick="{{ stopClick }}" style="max-width:640px;width:100%;background:#FBF8F1;border:1px solid #DCD2BE;box-shadow:0 20px 60px rgba(0,0,0,.4);">
         <div style="max-height:76vh;overflow:hidden;display:flex;align-items:center;justify-content:center;background:#EFE8D9;">
           <sc-if value="{{ lightboxItem.src }}" hint-placeholder-val="{{ false }}">
-            <img src="{{ lightboxItem.src }}" alt="{{ lightboxItem.title }}" style="width:100%;max-height:76vh;object-fit:contain;display:block;">
+            <img src="{{ lightboxItem.full }}" alt="{{ lightboxItem.title }}" style="width:100%;max-height:76vh;object-fit:contain;display:block;">
           </sc-if>
         </div>
         <div style="border-top:2px dashed #DCD2BE;padding:12px 20px;text-align:right;">
@@ -157,8 +157,8 @@ class Component extends DCLogic {
   FOLDER_LABELS = { decup: 'Декупаж', smola: 'Смола' };
 
   FALLBACK = [
-    {id:1,title:'Работа мастерской',date:'2026-08-08',isNew:true,aspect:1,src:'photos/decup/p1.jpg'},
-    {id:2,title:'Работа мастерской',date:'2026-08-01',isNew:false,aspect:1,src:'photos/decup/p55.jpg'}
+    {id:1,title:'Работа мастерской',date:'2026-08-08',isNew:true,aspect:1,src:'photos/decup/p1.jpg',full:'photos/decup/p1.jpg'},
+    {id:2,title:'Работа мастерской',date:'2026-08-01',isNew:false,aspect:1,src:'photos/decup/p55.jpg',full:'photos/decup/p55.jpg'}
   ];
 
   categoryFromSrc(src) {
