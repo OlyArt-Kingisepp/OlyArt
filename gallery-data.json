@@ -1,0 +1,15 @@
+[
+  {"id": 13, "title": "Декор из джута и кофейных зёрен", "date": "2026-08-08", "isNew": true, "aspect": 1.25, "src": "photos/decup/p1.jpg"},
+  {"id": 12, "title": "Бутылка с росписью", "date": "2026-08-05", "isNew": true, "aspect": 0.55, "src": "photos/decup/p55.jpg"},
+  {"id": 11, "title": "Подарочная композиция", "date": "2026-08-01", "isNew": true, "aspect": 0.8, "src": "photos/smola/p10.jpg"},
+  {"id": 10, "title": "Сувенирная банка", "date": "2026-07-27", "isNew": false, "aspect": 1.0, "src": "photos/decup/p20.jpg"},
+  {"id": 9, "title": "Декоративная композиция", "date": "2026-07-20", "isNew": false, "aspect": 0.7, "src": "photos/smola/p30.jpg"},
+  {"id": 8, "title": "Работа на заказ", "date": "2026-07-14", "isNew": false, "aspect": 1.1, "src": "photos/decup/p40.jpg"},
+  {"id": 7, "title": "Сувенир ручной работы", "date": "2026-07-05", "isNew": false, "aspect": 0.65, "src": "photos/smola/p45.jpg"},
+  {"id": 6, "title": "Декор для дома", "date": "2026-06-27", "isNew": false, "aspect": 1.3, "src": "photos/decup/p50.jpg"},
+  {"id": 5, "title": "Подарок на заказ", "date": "2026-06-18", "isNew": false, "aspect": 0.85, "src": "photos/smola/p60.jpg"},
+  {"id": 4, "title": "Сувенирное украшение", "date": "2026-06-09", "isNew": false, "aspect": 1.2, "src": "photos/decup/p70.jpg"},
+  {"id": 3, "title": "Декоративная бутылка", "date": "2026-05-30", "isNew": false, "aspect": 0.6, "src": "photos/smola/p80.jpg"},
+  {"id": 2, "title": "Работа на заказ", "date": "2026-05-18", "isNew": false, "aspect": 0.95, "src": "photos/decup/p90.jpg"},
+  {"id": 1, "title": "Сувенир из мастерской", "date": "2026-05-02", "isNew": false, "aspect": 1.15, "src": "photos/smola/p99.jpg"}
+]
