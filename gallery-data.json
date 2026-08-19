@@ -1,9 +1,306 @@
 [
   {
+    "id": 133,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_9_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_9_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 132,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.635,
+    "src": "photos/smola/thumbs/photo_9_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_9_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 131,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_8_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_8_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 130,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_8_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_8_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_7_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_7_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 128,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_7_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_7_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 127,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_6_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_6_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 126,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_6_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_6_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 125,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_5_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_5_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 124,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_5_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_5_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 123,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.562,
+    "src": "photos/smola/thumbs/photo_4_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_4_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 122,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_4_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_4_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 121,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_3_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_3_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 120,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_3_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_3_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 119,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_2_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_2_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 118,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_2_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_2_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 117,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 1.778,
+    "src": "photos/smola/thumbs/photo_22_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_22_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 116,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_21_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_21_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 115,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_20_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_20_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 114,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_1_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_1_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 113,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 1.0,
+    "src": "photos/smola/thumbs/photo_1_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_1_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 112,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_19_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_19_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 111,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_18_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_18_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 110,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_17_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_17_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 109,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_16_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_16_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 108,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_15_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_15_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_14_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_14_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_13_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_13_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_12_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_12_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 104,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.562,
+    "src": "photos/smola/thumbs/photo_11_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_11_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_11_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_11_2026-08-19_20-52-40.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_10_2026-08-19_21-02-25.jpg",
+    "full": "photos/smola/photo_10_2026-08-19_21-02-25.jpg"
+  },
+  {
+    "id": 101,
+    "title": "Смола — авторская работа",
+    "date": "2026-08-19",
+    "isNew": true,
+    "aspect": 0.75,
+    "src": "photos/smola/thumbs/photo_10_2026-08-19_20-52-40.jpg",
+    "full": "photos/smola/photo_10_2026-08-19_20-52-40.jpg"
+  },
+  {
     "id": 100,
     "title": "Декупаж — работа мастерской",
     "date": "2026-08-08",
-    "isNew": true,
+    "isNew": false,
     "aspect": 0.75,
     "src": "photos/decup/thumbs/photo_1_2026-08-08_18-17-33.jpg",
     "full": "photos/decup/photo_1_2026-08-08_18-17-33.jpg"
@@ -12,7 +309,7 @@
     "id": 99,
     "title": "Декоративная работа в технике декупаж",
     "date": "2026-08-06",
-    "isNew": true,
+    "isNew": false,
     "aspect": 0.75,
     "src": "photos/decup/thumbs/photo_2_2026-08-08_18-17-33.jpg",
     "full": "photos/decup/photo_2_2026-08-08_18-17-33.jpg"
@@ -21,7 +318,7 @@
     "id": 98,
     "title": "Сувенир в технике декупаж",
     "date": "2026-08-04",
-    "isNew": true,
+    "isNew": false,
     "aspect": 0.75,
     "src": "photos/decup/thumbs/photo_3_2026-08-08_18-17-33.jpg",
     "full": "photos/decup/photo_3_2026-08-08_18-17-33.jpg"
@@ -30,7 +327,7 @@
     "id": 97,
     "title": "Декупаж на заказ",
     "date": "2026-08-02",
-    "isNew": true,
+    "isNew": false,
     "aspect": 1.061,
     "src": "photos/decup/thumbs/photo_4_2026-08-08_18-17-33.jpg",
     "full": "photos/decup/photo_4_2026-08-08_18-17-33.jpg"
@@ -39,7 +336,7 @@
     "id": 96,
     "title": "Декупаж — работа мастерской",
     "date": "2026-07-31",
-    "isNew": true,
+    "isNew": false,
     "aspect": 0.562,
     "src": "photos/decup/thumbs/photo_5_2026-08-08_18-17-33.jpg",
     "full": "photos/decup/photo_5_2026-08-08_18-17-33.jpg"
@@ -48,7 +345,7 @@
     "id": 95,
     "title": "Декоративная работа в технике декупаж",
     "date": "2026-07-29",
-    "isNew": true,
+    "isNew": false,
     "aspect": 0.75,
     "src": "photos/decup/thumbs/photo_6_2026-08-08_18-17-33.jpg",
     "full": "photos/decup/photo_6_2026-08-08_18-17-33.jpg"
