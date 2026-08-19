@@ -2,22 +2,17 @@
 Generate missing thumbnails for photos/<category>/*.jpg into photos/<category>/thumbs/.
 Only processes files that don't already have a thumb with the same name.
 """
-import sys
+import subprocess
 from pathlib import Path
 from PIL import Image, ImageOps
-import time
-import subprocess
+
 ROOT = Path(__file__).parent
+BAT_FILE = ROOT / "push.bat"
 CATEGORIES = ["decup", "smola"]
 THUMB_MAX_WIDTH = 480
 JPEG_QUALITY = 72
-ROOT = Path(__file__).parent
-BAT_FILE = ROOT / "push.bat"
-s=input("Пушить сразу?:")
-s=s.lower()
-if s in ["да","","+"]:
-    s=True
-else: s = False
+
+
 def make_thumb(src: Path, dst: Path) -> None:
     with Image.open(src) as img:
         img = ImageOps.exif_transpose(img)
@@ -58,16 +53,12 @@ def main() -> None:
         print(f"{cat}: {made} new thumb(s), {len(sources)} source(s) total")
         total_made += made
 
-    print(f"done. {total_made} thumb(s) created. close 5 sec")
-
-    if s:
-        subprocess.Popen(
-            ["cmd.exe", "/c", str(BAT_FILE)],
-            cwd=str(ROOT)
-        )
-
-    time.sleep(5)
+    print(f"done. {total_made} thumb(s) created.")
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
+
+    answer = input("Пушить сразу? (да/нет): ").strip().lower()
+    if answer in ("да", "", "+"):
+        subprocess.run(["cmd.exe", "/c", str(BAT_FILE)], cwd=str(ROOT), check=False)
