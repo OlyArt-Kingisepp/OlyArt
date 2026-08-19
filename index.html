@@ -197,6 +197,12 @@ class Component extends DCLogic {
     this.setState(s => ({ lightboxIndex: ((s.lightboxIndex + dir) % filtered.length + filtered.length) % filtered.length }));
   }
 
+  distributeColumns(list, cols) {
+    const buckets = Array.from({ length: cols }, () => []);
+    list.forEach((item, i) => buckets[i % cols].push(item));
+    return buckets.flat();
+  }
+
   chipStyle(active) {
     return active
       ? "font-family:'Courier Prime',monospace;font-size:12.5px;padding:8px 14px;background:#2B2620;color:#F7F2E9;border:1px solid #2B2620;cursor:pointer;"
@@ -219,7 +225,9 @@ class Component extends DCLogic {
       select: () => this.setState({ category: c })
     }));
 
-    const filtered = (active === 'Все' ? items : items.filter(i => i.category === active)).map((it, idx) => {
+    const baseFiltered = active === 'Все' ? items : items.filter(i => i.category === active);
+    const orderedFiltered = columnCount > 1 ? this.distributeColumns(baseFiltered, columnCount) : baseFiltered;
+    const filtered = orderedFiltered.map((it, idx) => {
       const seed = (it.id * 9301) % 233280;
       const rot = (((seed % 500) / 500) - 0.5) * 4;
       return {
